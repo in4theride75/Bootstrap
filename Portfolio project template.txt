@@ -19,3 +19,27 @@ Briefly compare/contrast the features of these websites with your idea.
 4. References
 Give references to any material / websites / books, et cetera, relevant to your website idea.
 Give the links to the websites relevant to your idea that you listed in the section above.
+
+
+
+page header with logo, order info, address
+background pictures of products
+navbar with menu categories
+search bar
+seperate segments with items
+cards with each item, a description, picture, and price
+card creates pop up with order amount, cost of addition, ability to add to cart
+a checkout page with forms to fill out information to purchase including
+name, address, city, state, zip, CCinfo, exp date, security code, login info for order history
+ability to add items without coding
+ability to update with low stock/out of stock/special value tags
+specific diet tags
+map
+address
+phone
+email
+hours of operation
+social links
+link to google maps directions
+back to top button
+copyright info
