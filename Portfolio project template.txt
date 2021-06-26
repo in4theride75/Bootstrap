@@ -43,3 +43,34 @@ social links
 link to google maps directions
 back to top button
 copyright info
+
+
+to do:
+main page:
+Functioning search feature
+all modals
+price system
+
+item modals:
++/- buttons
+running total
+options boxes
+sizes drop downs
+custome text additions
+
+shopping cart:
+items inside
+number text box
+remove button
+running total
+tax
+tip
+ready by
+pickup location
+options to checkout
+
+
+login page:
+order history
+security info
+payment info
